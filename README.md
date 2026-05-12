@@ -35,14 +35,14 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 
 ### 🛠️ Stack Tecnológico
 <p align="center">
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2f2f2f&scale=2" height="100" />
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=astro&logoColor=white&labelColor=2f2f2f&scale=2" height="55" />
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=2f2f2f&scale=2" height="55" />
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=2f2f2f&scale=2" height="55" />
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=2f2f2f&scale=2" height="55" />
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=2f2f2f&scale=2" height="55" />
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=git&logoColor=F05032&labelColor=2f2f2f&scale=2" height="55" />
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=github&logoColor=white&labelColor=2f2f2f&scale=2" height="55" />
+  <img height="70" src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img height="70" src="https://skillicons.dev/icons?i=astro&theme=dark" />
+  <img height="70" src="https://skillicons.dev/icons?i=java&theme=dark" />
+  <img height="70" src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img height="70" src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
+  <img height="70" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
+  <img height="70" src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img height="70" src="https://skillicons.dev/icons?i=github&theme=dark" />
 </p>
 
 ---
