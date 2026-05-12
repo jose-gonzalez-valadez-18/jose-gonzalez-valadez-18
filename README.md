@@ -38,7 +38,10 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/ASTRO-1B1F23?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-6A00FF?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/Java-6A00FF?style=for-the-badge" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TAILWINDCSS-6A00FF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
