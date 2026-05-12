@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### A cerca de mi...
 
 Soy **Leonardo González**, desarrollador apasionado por crear soluciones web modernas, rápidas y funcionales.
 
@@ -33,7 +33,7 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 
 ---
 
-### 🛠️ Stack Tecnológico
+### Mi Caja de Herramientas...
 <p align="center">
   <img height="70" src="https://skillicons.dev/icons?i=react&theme=dark" />
   <img height="70" src="https://skillicons.dev/icons?i=astro&theme=dark" />
@@ -47,13 +47,13 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 
 ---
 
-### 💼 Lo que hago
+### ¿Qué hago?...
 
-- ⚛️ Desarrollo interfaces modernas con **React, Astro.js y TailwindCSS**.
-- 🧠 Construyo soluciones web funcionales y escalables.
-- 🔥 Trabajo con backend usando **Laravel**.
-- 📈 Optimizo sitios para **SEO, velocidad y mejor experiencia de usuario**.
-- 💜 Me gusta crear productos visualmente atractivos, limpios y profesionales.
+- Desarrollo interfaces modernas con **React, Astro.js y TailwindCSS**.
+- Construyo soluciones web funcionales y escalables.
+- Trabajo con backend usando **Laravel**.
+- Optimizo sitios para **SEO, velocidad y mejor experiencia de usuario**.
+- Me gusta crear productos visualmente atractivos, limpios y profesionales.
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF&height=120&section=footer"/>
