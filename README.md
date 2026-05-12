@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Leonardo González 👋</h1>
 
 <h3 align="center">
-  Desarrollador Full Stack | React · Laravel · SEO
+  Desarrollador Full Stack
 </h3>
 
 <p align="center">
@@ -25,9 +25,11 @@
 
 Soy **Leonardo González**, desarrollador apasionado por crear soluciones web modernas, rápidas y funcionales.
 
-Actualmente me enfoco en el desarrollo **Full Stack**, combinando interfaces atractivas con tecnologías como **React, Next.js y TailwindCSS**, junto con backend usando **Laravel**.
+Actualmente me enfoco en el desarrollo **Full Stack**, combinando interfaces atractivas con tecnologías como **React, Astro.js y TailwindCSS**, junto con backend usando **Laravel**.
 
 También me interesa la **optimización web, SEO y performance**, buscando que cada proyecto no solo se vea bien, sino que también cargue rápido, sea escalable y tenga impacto real.
+
+Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y Kotlin.
 
 ---
 
