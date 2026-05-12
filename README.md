@@ -43,6 +43,7 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
   <img height="70" src="https://skillicons.dev/icons?i=laravel&theme=dark" />
   <img height="70" src="https://skillicons.dev/icons?i=git&theme=dark" />
   <img height="70" src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img height="70" src="https://skillicons.dev/icons?i=lit&theme=dark" />
 </p>
 
 ---
@@ -54,6 +55,7 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 - Trabajo con backend usando **Laravel**.
 - Optimizo sitios para **SEO, velocidad y mejor experiencia de usuario**.
 - Me gusta crear productos visualmente atractivos, limpios y profesionales.
+- Adminitro Bases de datos SQL y NoSQL.
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF&height=120&section=footer"/>
