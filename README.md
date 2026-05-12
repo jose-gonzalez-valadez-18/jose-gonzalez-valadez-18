@@ -36,19 +36,53 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 ### 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    height="42"
+    style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;"
+  />
 
-  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg"
+    height="42"
+    style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;"
+  />
 
-  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    height="42"
+    style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;"
+  />
 
-  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="42"
+    style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;"
+  />
 
-  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    height="42"
+    style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;"
+  />
 
-  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+    height="42"
+    style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;"
+  />
 
-  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    height="42"
+    style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    height="42"
+    style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;"
+  />
 </p>
 
 ---
