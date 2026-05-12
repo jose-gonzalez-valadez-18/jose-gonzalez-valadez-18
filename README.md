@@ -11,9 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://my-web-portfolio-black.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTAFOLIO-6A00FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/tu-linkedin">
     <img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -39,7 +36,7 @@ También me interesa la **optimización web, SEO y performance**, buscando que c
 <p align="center">
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/ASTRO-1B1F23?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-2D033B?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TAILWINDCSS-6A00FF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -50,20 +47,11 @@ También me interesa la **optimización web, SEO y performance**, buscando que c
 
 ### 💼 Lo que hago
 
-- ⚛️ Desarrollo interfaces modernas con **React, Next.js y TailwindCSS**.
+- ⚛️ Desarrollo interfaces modernas con **React, Astro.js y TailwindCSS**.
 - 🧠 Construyo soluciones web funcionales y escalables.
 - 🔥 Trabajo con backend usando **Laravel**.
 - 📈 Optimizo sitios para **SEO, velocidad y mejor experiencia de usuario**.
 - 💜 Me gusta crear productos visualmente atractivos, limpios y profesionales.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=midnight-purple&hide_border=true&title_color=8A2BE2" />
-</p>
 
 ---
 
