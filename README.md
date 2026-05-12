@@ -34,31 +34,34 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 ---
 
 ### 🛠️ Stack Tecnológico
-<p align="center" nowrap>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-       height="42"
-       style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg"
-       height="42"
-       style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-       height="42"
-       style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-       height="42"
-       style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;" />
-
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-       height="42"
-       style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
-       height="42"
-       style="background-color:#1f1f1f;padding:14px;border-radius:18px;margin:6px;" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" bgcolor="#1f1f1f" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+    </td>
+    <td align="center" bgcolor="#1f1f1f" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="45" />
+    </td>
+    <td align="center" bgcolor="#1f1f1f" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+    </td>
+    <td align="center" bgcolor="#1f1f1f" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+    </td>
+    <td align="center" bgcolor="#1f1f1f" width="80" height="80">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" />
+    </td>
+    <td align="center" bgcolor="#1f1f1f" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" />
+    </td>
+    <td align="center" bgcolor="#1f1f1f" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+    </td>
+    <td align="center" bgcolor="#1f1f1f" width="80" height="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+    </td>
+  </tr>
+</table>
 
 ---
 
