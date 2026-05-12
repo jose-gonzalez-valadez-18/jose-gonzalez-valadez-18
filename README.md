@@ -6,7 +6,7 @@
   Desarrollador Full Stack
 </h3>
 
-<p align="center" background="gray">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Frontend+con+React+y+Astro.js;Backend+con+Laravel+y+Java;SEO+y+optimización+web;Creando+experiencias+digitales+modernas" />
 </p>
 
@@ -34,7 +34,7 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 ---
 
 ### 🛠️ Stack Tecnológico
-<table align="center">
+<table align="center" background="gray">
   <tr>
     <td align="center" bgcolor="#1f1f1f" width="80" height="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
