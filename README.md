@@ -35,7 +35,7 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 
 ### 🛠️ Stack Tecnológico
 <p align="center">
-  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2f2f2f&scale=2" height="55" />
+  <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2f2f2f&scale=2" height="100" />
   <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=astro&logoColor=white&labelColor=2f2f2f&scale=2" height="55" />
   <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=openjdk&logoColor=orange&labelColor=2f2f2f&scale=2" height="55" />
   <img src="https://img.shields.io/badge/-2f2f2f?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=2f2f2f&scale=2" height="55" />
