@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-leonardo-gonzalez-valadez-614502379/">
     <img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/tu-usuario">
-    <img src="https://img.shields.io/badge/GITHUB-2D033B?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://my-web-portfolio-black.vercel.app/">
+    <img src="https://img.shields.io/badge/Ver%20mi%20portafolio-6A00FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -54,13 +54,4 @@ También me interesa la **optimización web, SEO y performance**, buscando que c
 - 💜 Me gusta crear productos visualmente atractivos, limpios y profesionales.
 
 ---
-
-### 🌐 Conecta conmigo
-
-<p align="center">
-  <a href="https://my-web-portfolio-black.vercel.app/">
-    <img src="https://img.shields.io/badge/Ver%20mi%20portafolio-6A00FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF&height=120&section=footer"/>
