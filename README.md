@@ -36,14 +36,21 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 ### 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
+
+  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
+  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+
+  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+  <img style="background:#2b2b2b;padding:12px;border-radius:14px;margin:6px;" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
 ---
