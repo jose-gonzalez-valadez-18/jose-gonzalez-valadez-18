@@ -35,7 +35,7 @@ Y el desarrolo de aplicaciones moviles multiplataforma en lenguajes como Java y 
 
 ### 🛠️ Stack Tecnológico
 
-<p align="center">
+<p style="display: flex;flex-direction: row;justify-content: space-around;">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     height="42"
