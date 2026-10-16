@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-leonardo-gonzalez-valadez-614502379/">
     <img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://my-web-portfolio-black.vercel.app/">
+  <a href="https://jose-leonardo-gonzalez-valadez-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Ver%20mi%20portafolio-6A00FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
