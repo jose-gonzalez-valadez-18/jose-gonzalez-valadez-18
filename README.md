@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF&height=120&section=header"/>
 
-<h1 align="center">Hola, soy Leonardo González 👋</h1>
+<h1 align="center">Hola, soy José Leonardo González Valadez👋</h1>
 
 <h3 align="center">
   Desarrollador Full Stack
